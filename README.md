@@ -3,7 +3,7 @@ fullampl is the full-length amplicon (or target) sequence obtained from pacbio C
 ### Version: 3.3.0
 
 ## Building Requirements
-balst 
+[balst](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 ## Manuals
 <pre><code>
