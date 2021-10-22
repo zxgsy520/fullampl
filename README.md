@@ -10,7 +10,7 @@ fullampl is the full-length amplicon (or target) sequence obtained from pacbio C
 wget -c https://github.com/zxgsy520/fullampl/archive/v3.3.0.tar.gz
 tar -zxvf v3.3.0.tar.gz
 cd v3.3.0
-chmod 755 fullampl
+chmod 755 *
 fullampl -h
 or(windows user)
 python fullampl.pyc -h
@@ -19,7 +19,7 @@ or
 <pre><code>
 git clone https://github.com/zxgsy520/fullampl.git
 cd fullampl
-chmod 755 fullampl
+chmod 755 *
 fullampl -h
 or(windows user)
 python fullampl.pyc -h
